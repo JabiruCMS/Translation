@@ -1,10 +1,9 @@
 {
-  "name": "idavoll/translation-module",
+  "name": "jabirucms/translation-module",
   "description": "Module containing all AsgardCms translations",
   "type": "asgard-module",
   "license": "MIT",
   "require": {
-    "php": "^7.1.3",
     "composer/installers": "~1.0",
     "league/csv": "~7.2.0",
     "venturecraft/revisionable": "^1.35"
